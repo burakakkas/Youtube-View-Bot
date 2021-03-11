@@ -1,0 +1,9 @@
+[
+{"host": "103.15.167.115", "port": 6699, "geo": {"country": {"code": "BD", "name": "Bangladesh"}, "region": {"code": "Unknown", "name": "Unknown"}, "city": "Unknown"}, "types": [{"type": "SOCKS5", "level": ""}], "avg_resp_time": 0.5, "error_rate": 0.0},
+{"host": "104.248.63.17", "port": 30588, "geo": {"country": {"code": "US", "name": "United States"}, "region": {"code": "Unknown", "name": "Unknown"}, "city": "Unknown"}, "types": [{"type": "SOCKS5", "level": ""}], "avg_resp_time": 0.35, "error_rate": 0.0},
+{"host": "192.169.139.161", "port": 8975, "geo": {"country": {"code": "US", "name": "United States"}, "region": {"code": "Unknown", "name": "Unknown"}, "city": "Unknown"}, "types": [{"type": "SOCKS5", "level": ""}], "avg_resp_time": 0.37, "error_rate": 0.5},
+{"host": "104.248.63.49", "port": 30588, "geo": {"country": {"code": "US", "name": "United States"}, "region": {"code": "Unknown", "name": "Unknown"}, "city": "Unknown"}, "types": [{"type": "SOCKS5", "level": ""}], "avg_resp_time": 0.51, "error_rate": 0.67},
+{"host": "172.104.33.214", "port": 9050, "geo": {"country": {"code": "SG", "name": "Singapore"}, "region": {"code": "Unknown", "name": "Unknown"}, "city": "Unknown"}, "types": [{"type": "SOCKS5", "level": ""}], "avg_resp_time": 0.42, "error_rate": 0.0},
+{"host": "116.202.227.11", "port": 50331, "geo": {"country": {"code": "IN", "name": "India"}, "region": {"code": "Unknown", "name": "Unknown"}, "city": "Unknown"}, "types": [{"type": "SOCKS5", "level": ""}], "avg_resp_time": 0.14, "error_rate": 0.5},
+{"host": "98.188.47.132", "port": 4145, "geo": {"country": {"code": "US", "name": "United States"}, "region": {"code": "Unknown", "name": "Unknown"}, "city": "Unknown"}, "types": [{"type": "SOCKS5", "level": ""}], "avg_resp_time": 0.41, "error_rate": 0.0}
+]
